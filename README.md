@@ -78,3 +78,13 @@ _PitchBook is a financial data and software company that provides transparency i
     * One notable drawback for many PitchBook users is that the service is great for finding funds and investors. However, there is not often a long term use case for keepind a PitchBook subscription. 
 
 ## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? 
+    * My recommendation for this company has two parts. 
+        + First, I would double down on the compentent aspects of their research. Ramping up the data provider by their research team, and ensure that their recurring data stays up to date. (i.e. ensuring that PNL statements are updated as soon as released. This should be simple using automation.) as this was a review 
+        + Second, I would have the company expand their footprint in the reserach they provide. They have established themselves as a Private Markets data firm, but could use the tools and teams they have to expand to all equities and beyond. This would keep them relevant for firms and investors beyond their initial search for funds. 
+* Why do you think that offering this product or service would benefit the company?
+    * Going back to the reviews, this company has a limited use-case for a lot of the clients that use it. Let's say a new startup is looking for funds and wants to use PitchBook to make their pitch. Once they fund their startup, Pitchbook is no longer a viable subscription. 
+
+* What technologies would this additional product or service utilize?
+    * As it stands, I would recommend they expand the research they already provide but it would not require new technology or services. 
+
